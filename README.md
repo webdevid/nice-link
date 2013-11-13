@@ -35,3 +35,9 @@ http://developers.google.com/speed/pagespeed/
 wp resources
 ----------------------------
 http://www.paulund.co.uk/add-schema-org-wordpress
+
+
+
+Hotel Theme Inspiration 
+----------------------------
+http://www.hermesthemes.com/themes/
