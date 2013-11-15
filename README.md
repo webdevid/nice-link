@@ -41,3 +41,11 @@ http://www.paulund.co.uk/add-schema-org-wordpress
 Hotel Theme Inspiration 
 ----------------------------
 http://www.hermesthemes.com/themes/
+
+
+
+
+nice resources
+--
+http://stackoverflow.com/questions/9495007/indenting-code-in-sublime-text-2
+http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/
