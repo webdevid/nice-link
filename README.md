@@ -10,6 +10,11 @@ http://www.scriptigniter.com/codeigniter-form-generator/
 Inspiraiton Design
 ----------------------------
 http://kreavi.com/
+http://cssreel.com/
+http://www.cssawards.net/
+http://www.csswinner.com/
+http://www.siteinspire.com/
+http://www.awwwards.com/websites/web-interactive/
 
 
 
@@ -55,3 +60,9 @@ http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/
 mobile UI
 --
 http://ionicframework.com/
+
+
+
+animation resources
+--
+http://demo.hongkiat.com/css3-image-captions/index.html
