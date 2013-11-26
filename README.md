@@ -49,3 +49,9 @@ nice resources
 --
 http://stackoverflow.com/questions/9495007/indenting-code-in-sublime-text-2
 http://net.tutsplus.com/tutorials/tools-and-tips/sublime-text-2-tips-and-tricks/
+
+
+
+mobile UI
+--
+http://ionicframework.com/
